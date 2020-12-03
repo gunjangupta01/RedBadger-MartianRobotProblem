@@ -60,7 +60,7 @@ Maven - Included within project
 
 Enter project directory
 ```
-cd martianrobotsProblem
+cd RedBadger-MartianRobotProblem
 ```
 
 Build all project modules (main and test)
