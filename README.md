@@ -65,7 +65,7 @@ cd martianrobotsProblem
 
 Build all project modules (main and test)
 ```
-./mvn clean install
+mvn clean install
 ```
 Please note that the mvn build will not succeed unless all tests pass
 
